@@ -7,3 +7,5 @@ commit4_updated
 commit5_updated
 
 commit6_updated_again
+
+commit7_updated
