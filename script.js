@@ -16,3 +16,7 @@ function getRes(a, b) {
     div: getDiv(a, b),
   };
 }
+
+function getMult(a, b) {
+  return a * b;
+}
