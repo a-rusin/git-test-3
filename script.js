@@ -8,3 +8,10 @@ function getSum(a, b) {
 function getDiv(a, b) {
   return a / b;
 }
+
+function getRes(a, b) {
+  return {
+    sum: getSum(a, b),
+    div: getDiv(a, b),
+  };
+}
