@@ -20,3 +20,5 @@ function getRes(a, b) {
 function getMult(a, b) {
   return a * b;
 }
+
+console.log("hello world!");
