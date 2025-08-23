@@ -2,7 +2,8 @@ const a = 1;
 const b = 2;
 
 function getSum(a, b) {
-  return a + b;
+  if (a & b) return a + b;
+  return 0;
 }
 
 function getDiv(a, b) {
